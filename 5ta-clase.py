@@ -172,14 +172,6 @@ print(calcularArea())
 
 
 
-
-
-
-
-
-
-
-
 # Ejercicio 3: Crear una función que reciba una lista de números y devuelva la suma de sus elementos. (Debe devolver la suma)
 # Ejercicio 4: Crear una función que reciba una cadena y devuelva la misma cadena en mayúsculas. (Debe devolver la cadena en mayúsculas)
 

@@ -9,7 +9,7 @@ os.system("clear")
 # Tipo list
 # <variable> = []
 # """
-#                0                  1                2            3                
+#                 0                    1                2            3                
 # tareas = ["Barrer la casa", "Acomodar el cuarto", "Cocinar", "Lavar la ropa"]
 
 # tareas.append("Barrer el patio")
